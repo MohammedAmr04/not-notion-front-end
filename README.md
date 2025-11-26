@@ -36,12 +36,12 @@
 
 ## 3️⃣ Real-Time Collaboration
 
-| Use Case | Actor | Scenario | Priority |
-|----------|-------|---------|---------|
-| Live Chat | User | Messages appear instantly for all team members | MVP |
-| Collaborative Docs | User | Users can edit a shared document with real-time updates | MVP |
-| Whiteboard | User | Users can draw or brainstorm on a shared whiteboard | MVP |
-| Real-Time Task Update | User | Task status updates (To Do / In Progress / Done) are visible instantly | MVP |
+| Use Case | Actor | User Story | Priority |
+|----------|-------|------------|----------|
+| Live Chat | User | As a user, I want to send and receive messages in real-time so I can communicate instantly with my team. | MVP |
+| Collaborative Docs | User | As a user, I want to edit documents with others in real-time so we can work together without conflicts. | MVP |
+| Whiteboard | User | As a user, I want to draw and brainstorm live with the team so we can collaborate visually. | MVP |
+| Real-Time Task Updates | User | As a user, I want task updates to show instantly so everyone sees the most recent project status. | MVP |
 
 ---
 
