@@ -36,7 +36,7 @@
 
 ## 3️⃣ Real-Time Collaboration
 
-| Use Case | Actor | User Story | Priority |
+| Use Case | Actor | Scenario | Priority |
 |----------|-------|------------|----------|
 | Live Chat | User | As a user, I want to send and receive messages in real-time so I can communicate instantly with my team. | MVP |
 | Collaborative Docs | User | As a user, I want to edit documents with others in real-time so we can work together without conflicts. | MVP |
